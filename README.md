@@ -56,7 +56,8 @@ Welcome to my GitHub profile! I'm an aspiring **Data Scientist** and **Business/
 ## 📫 Get in Touch  
 
 - 🌐 **GitHub:** [@MohammedLike](https://github.com/MohammedLike)  
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-- 📧 **Email:** [your.email@example.com](mohammedlike)  @gmail.com
+- 💼 **LinkedIn:** [Mohammed Like](https://www.linkedin.com/in/mohammed-like-608285211/)  
+- 📧 **Email:** [mohammedlike01@gmail.com](mailto:mohammedlike01@gmail.com)  
+- 📱 **Phone:** +91 7424962861  
 
 🚀 I'm open to opportunities in **Data Science, Financial Data Analytics, and Business Intelligence**. Feel free to connect!  
