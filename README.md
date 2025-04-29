@@ -79,8 +79,4 @@ Welcome to my GitHub! I'm an aspiring **Data Scientist** and **Financial/Busines
 **Quantitative Finance**, **Data Science**, and **Business/Financial Analytics** — let’s build the future with data!
 """
 
-with open("/mnt/data/README.md", "w") as f:
-    f.write(readme_content)
-
-"/mnt/data/README.md"
 
