@@ -1,4 +1,3 @@
-readme_content = """
 # 👋 Hi there, I'm Mohammed!  
 
 Welcome to my GitHub! I'm an aspiring **Data Scientist** and **Financial/Business Analyst** with a solid foundation in **data analytics, machine learning, and financial modeling**. I'm deeply passionate about solving real-world problems using **data-driven decisions** and building tools for **quantitative finance and business intelligence**.  
@@ -77,6 +76,6 @@ Welcome to my GitHub! I'm an aspiring **Data Scientist** and **Financial/Busines
 
 ### 🚀 I'm open to opportunities in:
 **Quantitative Finance**, **Data Science**, and **Business/Financial Analytics** — let’s build the future with data!
-"""
+
 
 
